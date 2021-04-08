@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerGatewayNet", "ConsumerGatewayNet\ConsumerGatewayNet.csproj", "{66EED95E-A581-44FF-A7EF-699C42698247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyNet", "ProxyNet\ProxyNet.csproj", "{CF92162B-3C51-4EC6-AD3A-BF754AE03A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyNetSimple", "ProxyNetSimple\ProxyNetSimple.csproj", "{592F0CD9-F9C7-454D-AB45-59396603635F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66EED95E-A581-44FF-A7EF-699C42698247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EED95E-A581-44FF-A7EF-699C42698247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EED95E-A581-44FF-A7EF-699C42698247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EED95E-A581-44FF-A7EF-699C42698247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF92162B-3C51-4EC6-AD3A-BF754AE03A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF92162B-3C51-4EC6-AD3A-BF754AE03A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF92162B-3C51-4EC6-AD3A-BF754AE03A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF92162B-3C51-4EC6-AD3A-BF754AE03A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592F0CD9-F9C7-454D-AB45-59396603635F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592F0CD9-F9C7-454D-AB45-59396603635F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592F0CD9-F9C7-454D-AB45-59396603635F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592F0CD9-F9C7-454D-AB45-59396603635F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
